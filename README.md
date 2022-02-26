@@ -1,2 +1,2 @@
-# FREESPAMSMS
-SPAM SMS By SSPECTOR PRO
+# SMSFREE
+เคติด SPECTOR PRO https://discord.gg/spectorshop
