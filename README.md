@@ -1,7 +1,7 @@
 # SMSFREE
 เคติด SPECTOR PRO https://discord.gg/spectorshop
 
-วิธีใช้โหลด termux มาแล้วรันทีล่ะอัน
+วิธีใช้โหลด termux มาแล้วรันคำสั่งทีล่ะอัน
 pkg update && pkg upgrad 
 pkg install python
 pip install requests
